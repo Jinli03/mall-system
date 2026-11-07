@@ -1,1 +1,1 @@
-function calcCoupon() { return 0.85; }
+function calcCoupon() { return 0.8; }
